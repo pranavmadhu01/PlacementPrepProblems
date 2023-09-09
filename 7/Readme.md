@@ -1,0 +1,1 @@
+# Remove vowels from the end until a constant occurs and return the rest of the string.Both lower and upper case are included

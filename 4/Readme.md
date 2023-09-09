@@ -1,0 +1,1 @@
+# Given an array of integers. For each pair of adjacent elements, take first element as length and second as breadth. Find area and perimeter(of rectangle) for each pair. If area is greater than perimeter, it is type A couple. If area is lesser than perimeter, it is type B couple. Return the absolute difference between the number of type A and type B couples.

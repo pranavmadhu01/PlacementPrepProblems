@@ -1,0 +1,1 @@
+# Define a function to return the absolute difference between the largest and the smallest prime number in the given array. The array may contain any integer, positive or negative. Negative numbers, 0 and 1 in the array are not to be considered.

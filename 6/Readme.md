@@ -1,0 +1,1 @@
+# Square the negative elements in an array
