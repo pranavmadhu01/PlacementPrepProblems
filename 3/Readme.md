@@ -1,0 +1,1 @@
+# Given an array of integers . find the LCM between the adjacent pairs in the array . Add these elements in to a set. Find the largest element from the set
