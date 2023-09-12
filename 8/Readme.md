@@ -1,0 +1,1 @@
+# Given an integer N, check if divisible by 5, if yes, divide it by 5. If not divisible by 5, check for divisibility by 3. If yes divide by 3. If not, repeat checking and division with respect to 2. If none of the above cases, decrement number by 1.Continue the process until num=0 and display number of steps taken for the same.

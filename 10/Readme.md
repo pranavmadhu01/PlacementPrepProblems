@@ -1,0 +1,1 @@
+# In array input from the user, remove even numbers and repeated numbers. Then display the size of array after the removal of these elements.

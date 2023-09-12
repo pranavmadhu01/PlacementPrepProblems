@@ -1,0 +1,1 @@
+# Given an array of size n, for each element in the array convert it to binary, remove the last 2 bits and again convert it to decimal. Do this for all the elements of the array and then find the sum. If the sum is a large number then apply modulo 10^9+7 on it and return the sum

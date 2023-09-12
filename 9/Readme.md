@@ -1,0 +1,1 @@
+# In an array A,find the absolute difference of the two adjacent elements and store it in array B.Find the sum of (B[i] xor i) and return the value of the sum modulo 10^9*7
